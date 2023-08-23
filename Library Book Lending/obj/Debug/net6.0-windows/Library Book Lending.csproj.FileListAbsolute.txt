@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\Library Book Lending.exe
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\Library Book Lending.deps.json
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\Library Book Lending.runtimeconfig.json
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\Library Book Lending.dll
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\Library Book Lending.pdb
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\ClosedXML.dll
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library_Book_Lending.Form1.resources
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library_Book_Lending.Properties.Resources.resources
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.AssemblyInfo.cs
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.csproj.CopyComplete
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.dll
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\refint\Library Book Lending.dll
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.pdb
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\Library Book Lending.genruntimeconfig.cache
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\obj\Debug\net6.0-windows\ref\Library Book Lending.dll
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\OpenXmlPowerTools.dll
+C:\Users\User\source\repos\Library Book Lending\Library Book Lending\bin\Debug\net6.0-windows\System.Management.Automation.dll
